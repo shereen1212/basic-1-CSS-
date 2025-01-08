@@ -1,0 +1,18 @@
+header {
+    text-align: center;
+    font-family: sans-serif;
+  }
+  h2 {
+    color: rgb(91, 27, 27);
+    text-decoration: underline;
+  }
+  .read {
+    color: rgb(94, 31, 31);
+    font-family: sans-serif;
+  }
+  div {
+    background-image: url(Screenshot\ 2024-12-14\ 181942.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }  

@@ -1,0 +1,26 @@
+
+  .welcome .explore {
+    text-transform: uppercase;
+  }
+  h2 {
+    text-decoration: underline;
+    color: red;
+  }
+  .power {
+    font-family: sans-serif;
+  }
+  .welcome{
+    background-color: rgb(234, 234, 234);
+  }
+  .contact {
+    color: red;
+    text-transform: uppercase;
+    font-family: sans-serif;
+  }
+  footer {
+    text-align: center;
+    background-color: rgb(79, 83, 121);
+  }
+  .three {
+    color: rgb(234, 234, 234);
+  }

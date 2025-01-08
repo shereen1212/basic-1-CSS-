@@ -1,0 +1,35 @@
+
+
+/* خلفية الصفحة */
+body {
+    background-color: #f4f4f4; /* لون الخلفية */
+    text-align: center;       /* توسيط النص */
+    font-family: Arial, sans-serif; /* نوع الخط */
+}
+
+/* تنسيق العناوين */
+.title {
+    color: #d63031; /* لون النص */
+    font-size: 24px; /* حجم الخط */
+    text-align: left; /* محاذاة النص */
+}
+
+/* تنسيق النصوص */
+.text {
+    color: #2d3436; /* لون النص */
+    font-size: 18px;
+    line-height: 1.5; /* تباعد الأسطر */
+    background-color: #ffeaa7; /* لون خلفية النص */
+    padding: 10px;
+    border-radius: 5px; /* حواف مدورة */
+}
+
+/* أقسام الصفحة */
+.section {
+    margin: 20px auto;
+    width: 80%;
+    background-color: #fab1a0; /* خلفية القسم */
+    padding: 20px;
+    border: 2px solid #d63031; /* إطار */
+    border-radius: 10px;
+}

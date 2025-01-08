@@ -1,0 +1,34 @@
+/* تنسيق النص الأساسي */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+
+/* تنسيق العنوان الرئيسي */
+.intermediate {
+    color: orange;
+    font-size: 2rem;
+}
+
+/* تنسيق العناوين الثانوية */
+.title {
+    color: red;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+/* تنسيق الفقرات */
+.section p {
+    background-image: url("7\ \ WhatsApp\ Image\ 2024-12-20\ at\ 11.32.18\ PM.jpeg"); /* ضع هنا صورة النمط إذا عندك */
+    background-repeat: repeat;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+/* تنسيق الروابط أو النصوص المهمة */
+b {
+    color: green;
+}
